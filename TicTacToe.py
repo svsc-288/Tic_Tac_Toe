@@ -1,4 +1,5 @@
-ave fun with your # --------- Global Variables -----------
+#have fun with your 
+# --------- Global Variables -----------
 
 # Will hold our game board data
 board = ["-", "-", "-",
